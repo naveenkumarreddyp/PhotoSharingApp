@@ -15,7 +15,7 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 ### `To run JSON Server`
 
-json-server --watch <File Name>.json --port <Port as Mentioned>
+json-server --watch "File Name".json --port "Port as Mentioned"
 
 ### `npm test`
 
